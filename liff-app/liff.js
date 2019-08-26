@@ -10,7 +10,7 @@ const PSDI_SERVICE_UUID         = 'E625601E-9E55-4597-A598-76018A0D293D'; // Dev
 const PSDI_CHARACTERISTIC_UUID  = '26E2B12B-85F0-4F3F-9FDD-91D114270E6E';
 */
 // User service UUID: Change this to your generated service UUID
-const USER_SERVICE_UUID         = 'd67ab8b9-cfc5-47bc-affb-9cb768d16cd3'; // LED, Button
+const USER_SERVICE_UUID         = 'e5fab9c3-df3d-4091-b003-e6dcdf40fd1f'; // LED, Button
 // User service characteristics
 const LED_CHARACTERISTIC_UUID   = 'E9062E71-9E62-4BC6-B0D3-35CDCD9B027B';
 const BTN_CHARACTERISTIC_UUID   = '62FBD229-6EDD-4D1A-B554-5C4E1BB29169';
